@@ -1,0 +1,9 @@
+hello
+Welcome to my assignment programs
+I am Diti 
+I am currently an unergrad student
+I am pursuing BE in Computer Engineering
+Tell me something about yourself
+Where do you belong from ?
+What do you do for your living?
+Where do you work?

@@ -1,0 +1,1 @@
+# . Write all file content into new file byskiping line 5 from following file.
